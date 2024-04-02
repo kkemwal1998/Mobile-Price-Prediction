@@ -1,14 +1,18 @@
 Model Objective:-
 
-The model aims to predict the price for Samsung mobile phones that belong to range 0,1,2, & 3. The procedure has been performed using supervised learning algorithm.
+The model aims to predict the price for Samsung mobile phones that belong to the range 0,1,2, & 3. The procedure has been performed using a supervised learning algorithm.
 
-Database Desciption:-
+Organisation name:- Samsung
+
+Product Division:- Smart Phones
+
+Database Description:-
 
 Price Range: 0,1,2 & 3 
 
 Data source: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
-Alogorithms Applied: 
+Algorithms Applied: 
 
     1) K Nearest Neighbor (KNN) Algorithm
     
