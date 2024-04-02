@@ -68,5 +68,5 @@ Conclusion:-
     
     - The price for the mobile phone belonging to the price range of 2 is expected to be decreased.
     
-    - The model is ready to be deployed for prediction procedure with the capability of 86% accuracy.
+    - The model is ready to be deployed for prediction procedure with the capability of 84% accuracy.
               
